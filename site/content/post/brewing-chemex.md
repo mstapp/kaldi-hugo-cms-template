@@ -22,6 +22,15 @@ Here's even **more** good stuff!
 
 Wow, this is really cool.
 
+Here's an image:
+
+![undefined](/dist/donut-hole-size.jpg)
+
+Oh, this is cool. :-)
+
+
+
+
 ---
 
 
