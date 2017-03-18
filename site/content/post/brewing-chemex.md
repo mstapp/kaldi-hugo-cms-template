@@ -24,7 +24,7 @@ Wow, this is really cool.
 
 Here's an image:
 
-![undefined](/dist/donut-hole-size.jpg)
+![undefined](/donut-hole-size.jpg)
 
 Oh, this is cool. :-)
 
