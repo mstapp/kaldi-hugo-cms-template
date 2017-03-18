@@ -22,7 +22,7 @@ Here's even **more** good stuff!
 
 Wow, this is really cool.
 
-Here's an image:
+Here's an image xx:
 
 ![undefined](/donut-hole-size.jpg)
 
